@@ -45,7 +45,6 @@ This Power BI dashboard provides insights into mobile phone sales performance fr
 
 ---
 
-## 📷 Screenshots
 
 ![image](https://github.com/user-attachments/assets/05ce46b2-4120-47aa-8d0c-4fc3dca848f5)
 ![image](https://github.com/user-attachments/assets/ee4fb7eb-5ff6-4475-b019-547d21cc1b7f)
